@@ -8,3 +8,4 @@ mzzsfy/auto-proxy-pool:latest
 ffdfgdfg/npc:latest
 containrrr/watchtower:amd64-latest
 nolanhzy/ark:latest
+mzzsfy/auto-proxy-pool:24-06-21_16-58
