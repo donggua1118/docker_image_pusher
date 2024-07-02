@@ -7,3 +7,4 @@ whyour/qinglong:latest
 mzzsfy/auto-proxy-pool:latest
 ffdfgdfg/npc:latest
 containrrr/watchtower:amd64-latest
+anmour/bncr:latest
