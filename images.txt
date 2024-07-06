@@ -8,4 +8,4 @@ mzzsfy/auto-proxy-pool:latest
 ffdfgdfg/npc:latest
 containrrr/watchtower:amd64-latest
 anmour/bncr:latest
-fifaty/autoupdateck:main
+
