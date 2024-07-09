@@ -8,4 +8,4 @@ mzzsfy/auto-proxy-pool:latest
 ffdfgdfg/npc:latest
 containrrr/watchtower:amd64-latest
 anmour/bncr:latest
-
+zhx47/jd_h5st_server:x64
